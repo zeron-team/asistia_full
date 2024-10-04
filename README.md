@@ -15,5 +15,10 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/zeron-team/zrn_asistia.git
-git push -u origin main
+git push -u origin master
 ```
+## DATA BASE
+- MongoDB
+- thesaurus_db
+  - usuarios
+  - roles
